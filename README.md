@@ -5,12 +5,12 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=0D6DA3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Grisha+Statnikov!" alt="Typing SVG" />
 </h1>
-<p align="center" style="font-size: 16px; color: #6c757d;">A passionate 16-year-old high school student with a love for coding</p>
+<p align="center" style="font-size: 16px; color: #6c757d;">16-year-old high school student with a love for coding</p>
 
 - 🔭 I’m currently working on **Machine Learning** and a project called **Autoencoders in Space Optical Communications** 🛰️
 - 🌱 I’m currently learning **PyTorch**, **TensorFlow**, and a bit of **Java**
 - 💻 I already have experience with **Python**, **Java**, **React**, **Google Colab**, **Anaconda**, **Jupyter Notebooks**, **VSCode**, **HTML**, **CSS**, **PyCharm**, **Git**, **GitHub**
-- ⚡ I’m passionate about coding and always eager to **learn more**
+- 📧 You can reach me at **grigorystatnikov@gmail.com**
 
 ### Connect with me:
 <p align="left">
