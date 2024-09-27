@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning **PyTorch**, **TensorFlow**, and a bit of **Java**
 - 💻 I already have experience with **Python**, **Java**, **React**, **Google Colab**, **Anaconda**, **Jupyter Notebooks**, **VSCode**, **HTML**, **CSS**, **PyCharm**, **Git**, **GitHub**
 - 📧 You can reach me at **grigorystatnikov@gmail.com**
+- 📄 Check out my CV [here](https://github.com/gstatnikov/Resume/blob/main/Grigory_Statnikov_s_Resume.pdf)
 
 ### Connect with me:
 <p align="left">
